@@ -28,6 +28,7 @@ GPR-Agent is a specialized personal AI agent designed to ingest raw industrial t
 A stranger should be able to set up and run GPR-Agent in under 3 minutes:
 
 1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/rashid-aziz-ee/portfolio.git](https://github.com/rashid-aziz-ee/portfolio.git)
-   cd portfolio
+```bash
+git clone [https://github.com/rashid-aziz-ee/portfolio.git](https://github.com/rashid-aziz-ee/portfolio.git)
+cd portfolio
+```
